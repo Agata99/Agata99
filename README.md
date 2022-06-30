@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some projects in python (Data Analysis and ML).
+- 🌱 I’m currently learning machine learning algorithms.
+- ⚡ I want to become Data Scientist.
+- 📫 I would be grateful for any feedback: machaaga2@gmail.com
+
+https://rpubs.com/Agata99
+
 <!--
 **Agata99/Agata99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
